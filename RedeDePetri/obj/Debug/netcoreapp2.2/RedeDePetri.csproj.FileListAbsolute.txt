@@ -1,0 +1,11 @@
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\bin\Debug\netcoreapp2.2\RedeDePetri.deps.json
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\bin\Debug\netcoreapp2.2\RedeDePetri.runtimeconfig.json
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\bin\Debug\netcoreapp2.2\RedeDePetri.runtimeconfig.dev.json
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\bin\Debug\netcoreapp2.2\RedeDePetri.dll
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\bin\Debug\netcoreapp2.2\RedeDePetri.pdb
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\obj\Debug\netcoreapp2.2\RedeDePetri.csprojAssemblyReference.cache
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\obj\Debug\netcoreapp2.2\RedeDePetri.csproj.CoreCompileInputs.cache
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\obj\Debug\netcoreapp2.2\RedeDePetri.AssemblyInfoInputs.cache
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\obj\Debug\netcoreapp2.2\RedeDePetri.AssemblyInfo.cs
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\obj\Debug\netcoreapp2.2\RedeDePetri.dll
+C:\Users\abfer\source\repos\RedeDePetri\RedeDePetri\obj\Debug\netcoreapp2.2\RedeDePetri.pdb
